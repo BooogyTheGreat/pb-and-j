@@ -1,0 +1,37 @@
+html {
+  background-color: dodgerblue;
+}
+body {
+  background-color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  width: 500px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: auto;
+  padding: 40px;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+}
+a {
+  color: purple;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color:blue;
+  font-size: 18px;
+}
+/* h1:hover {
+  color:maroon;
+} */
+/* li {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+} */
+
+
